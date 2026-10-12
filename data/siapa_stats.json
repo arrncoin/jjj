@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "username": "✌️",
+    "display_name": "✌️",
+    "total_points": 1710,
+    "games_played": 4,
+    "wins": 2,
+    "top3": 4,
+    "best_rank": 1,
+    "total_survival_rounds": 2,
+    "created_at": "2026-10-06T13:04:15.654Z",
+    "updated_at": "2026-10-09T23:49:42.480Z"
+  },
+  {
+    "id": 2,
+    "username": "kridopratomo",
+    "display_name": "kridopratomo",
+    "total_points": 2230,
+    "games_played": 6,
+    "wins": 2,
+    "top3": 6,
+    "best_rank": 1,
+    "total_survival_rounds": 3,
+    "created_at": "2026-10-06T13:04:15.654Z",
+    "updated_at": "2026-10-09T23:49:42.480Z"
+  },
+  {
+    "id": 3,
+    "username": "fabianxkyutiexzhs",
+    "display_name": "fabianxkyutiexzhs",
+    "total_points": 510,
+    "games_played": 1,
+    "wins": 0,
+    "top3": 1,
+    "best_rank": 2,
+    "total_survival_rounds": 1,
+    "created_at": "2026-10-06T13:06:24.570Z",
+    "updated_at": "2026-10-06T13:06:24.570Z"
+  },
+  {
+    "id": 4,
+    "username": "kakakkia24",
+    "display_name": "kakakkia24",
+    "total_points": 2040,
+    "games_played": 2,
+    "wins": 2,
+    "top3": 2,
+    "best_rank": 1,
+    "total_survival_rounds": 0,
+    "created_at": "2026-10-06T14:18:12.306Z",
+    "updated_at": "2026-10-06T14:21:56.066Z"
+  },
+  {
+    "id": 5,
+    "username": "feritemoon",
+    "display_name": "feritemoon",
+    "total_points": 10,
+    "games_played": 1,
+    "wins": 0,
+    "top3": 1,
+    "best_rank": 999999,
+    "total_survival_rounds": 0,
+    "created_at": "2026-10-06T14:21:56.067Z",
+    "updated_at": "2026-10-06T14:21:56.066Z"
+  },
+  {
+    "id": 6,
+    "username": "diengsabdaaudath",
+    "display_name": "diengsabdaaudath",
+    "total_points": 10,
+    "games_played": 1,
+    "wins": 0,
+    "top3": 1,
+    "best_rank": 999999,
+    "total_survival_rounds": 0,
+    "created_at": "2026-10-06T14:21:56.067Z",
+    "updated_at": "2026-10-06T14:21:56.066Z"
+  }
+]
